@@ -1,2 +1,1 @@
-adding somelines in file1
-
+making some changes
